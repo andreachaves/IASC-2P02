@@ -3,7 +3,7 @@
 
 Here is my bio
 
-![](images/file.jpg)
+![](images/cat.jpg)
 
 ## Blog post
 
