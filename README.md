@@ -1,5 +1,10 @@
-# IASC-2P02
+# IASC-2P02 | Andrea Chavez
+## About me
 
-Hello World
+Here is my bio
 
-Hello there!
+![](images/file.jpg)
+
+## Blog post
+
+Lorem ipsum dolor sit amet... [continue reading](blog)
