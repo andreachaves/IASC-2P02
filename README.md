@@ -1,4 +1,4 @@
-# IASC-2P02 | Andrea Chavez
+# IASC-2P02 | Andrea Chaves
 ## About me
 
 Here is my bio
